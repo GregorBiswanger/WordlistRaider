@@ -35,7 +35,7 @@ setup(
     keywords='wordlist passwordlist cutter raider',
     entry_points={
         'console_scripts': [
-            'sublist3r = sublist3r:interactive',
+            'wordlistraider = wordlistraider',
         ],
     },
 )
