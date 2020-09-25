@@ -1,0 +1,6 @@
+.vscode/
+.venv/
+*.pyc
+
+source.txt
+target.txt
