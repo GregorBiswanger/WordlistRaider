@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: wordlistraider
+Version: 1.0
+Summary: Returns a selection of words that matches the passed conditions in an existing list.
+Home-page: https://github.com/GregorBiswanger/WordlistRaider
+License: MIT
+Description: irgendwas
+Keywords: wordlist passwordlist cutter raider
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7

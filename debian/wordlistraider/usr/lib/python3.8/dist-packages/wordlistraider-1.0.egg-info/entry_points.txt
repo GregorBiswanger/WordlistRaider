@@ -1,0 +1,3 @@
+[console_scripts]
+wordlistraider = wordlistraider.wordlistraider
+

@@ -1,0 +1,9 @@
+Package: wordlistraider
+Version: 1.0.0
+Architecture: all
+Maintainer: Gregor Biswanger, <gregor.biswanger@web-enliven.de>
+Installed-Size: 38
+Depends: python
+Section: python
+Priority: optional
+Description: Returns a selection of words that matches the passed conditions in an existing list.

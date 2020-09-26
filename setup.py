@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='WordlistRaider',
+    name='wordlistraider',
     version='1.0',
     python_requires='>=3.7',
     install_requires=[
@@ -35,7 +35,7 @@ setup(
     keywords='wordlist passwordlist cutter raider',
     entry_points={
         'console_scripts': [
-            'wordlistraider = wordlistraider',
+            'wordlistraider = wordlistraider.wordlistraider',
         ],
     },
 )
