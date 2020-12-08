@@ -26,7 +26,7 @@ setup(
     keywords='wordlist passwordlist cutter raider',
     entry_points={
         'console_scripts': [
-            'wordlistraider = wordlistraider.wordlistraider',
+            'wordlistraider = wordlistraider.WordlistRaider',
         ],
     },
 )
