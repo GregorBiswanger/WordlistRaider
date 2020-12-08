@@ -12,7 +12,7 @@ setup(
         "more_termcolor",
         "pyfiglet"
     ],
-    packages=find_packages()+['.'],
+    packages=find_packages(),
     include_package_data=True,
     url='https://github.com/GregorBiswanger/WordlistRaider',
     license='MIT',
