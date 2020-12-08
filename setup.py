@@ -12,8 +12,6 @@ setup(
         "more_termcolor",
         "pyfiglet"
     ],
-    packages=find_packages(),
-    include_package_data=True,
     url='https://github.com/GregorBiswanger/WordlistRaider',
     license='MIT',
     description='Returns a selection of words that matches the passed conditions in an existing list.',
@@ -24,9 +22,5 @@ setup(
         "Operating System :: OS Independent",
     ],
     keywords='wordlist passwordlist cutter raider',
-    entry_points={
-        'console_scripts': [
-            'wordlistraider = wordlistraider.WordlistRaider',
-        ],
-    },
+    scripts=['WordlistRaider.py'],
 )
